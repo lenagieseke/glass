@@ -6,3 +6,7 @@ tags:
 description: This is a test
 ---
 Test test
+
+
+
+![](/media/panda.png)
