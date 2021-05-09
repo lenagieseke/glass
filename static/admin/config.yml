@@ -1,5 +1,6 @@
 backend:
   name: git-gateway
+  repo: lenagieseke/glass
   branch: main
   commit_messages:
     create: 'Create {{collection}} “{{slug}}”'
